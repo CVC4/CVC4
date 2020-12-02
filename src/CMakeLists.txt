@@ -33,6 +33,7 @@ libcvc4_add_sources(
   context/context.h
   context/context_mm.cpp
   context/context_mm.h
+  context/default_clean_up.h
   decision/decision_attributes.h
   decision/decision_engine.cpp
   decision/decision_engine.h
